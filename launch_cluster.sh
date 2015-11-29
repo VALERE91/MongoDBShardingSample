@@ -1,3 +1,6 @@
+mkdir $HOME/Desktop/mongodb/data/configdb
+mkdir $HOME/Desktop/mongodb/data/db
+
 #Launch a config server
 mongod --configsvr --dbpath $HOME/Desktop/mongodb/data/configdb --port 27019
 
