@@ -8,7 +8,7 @@ In this sample we have 4 Ubuntu VM :
 
 The mongodb folder contains the mongodb bin in version 3.2 rc2.
 
-The launch-cluster.sh file contains the different commands to launch all the different instances. Don't forget to chang your data path if your 
+The launch-cluster.sh file contains the different commands to launch all the different instances. Don't forget to change your data path if your 
 mongodb folder is not in your desktop.
 
 Once the cluster launch you must configure it and your database. Use 
